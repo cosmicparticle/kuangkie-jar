@@ -10,7 +10,7 @@
 	<dependency>
 		<groupId>com.kuangkie</groupId>
 		<artifactId>hydrocarbon</artifactId>
-		<version>1.0.11</version>
+		<version>1.11.1</version>
 	</dependency>
 
 ```
