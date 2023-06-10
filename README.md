@@ -19,7 +19,7 @@
 <tr>
 <th>hydrocarbon</th><th>hydrocarbon-client</th>
 </tr>
-<tr><td>1.0.11</td><td>1.0.11</td></tr>
+<tr><td>1.11.1</td><td>1.0.11</td></tr>
 </table>
 
 ## 问题反馈 
