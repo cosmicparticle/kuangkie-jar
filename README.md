@@ -5,12 +5,12 @@
     <dependency>
 		<groupId>com.kuangkie</groupId>
 		<artifactId>hydrocarbon-client</artifactId>
-		<version>1.0.11</version>
+		<version>1.12.0</version>
 	</dependency>
 	<dependency>
 		<groupId>com.kuangkie</groupId>
 		<artifactId>hydrocarbon</artifactId>
-		<version>1.11.1</version>
+		<version>1.12.0</version>
 	</dependency>
 
 ```
@@ -19,6 +19,7 @@
 <tr>
 <th>hydrocarbon</th><th>hydrocarbon-client</th>
 </tr>
+<tr><td>1.12.0</td><td>1.12.0</td></tr>
 <tr><td>1.11.1</td><td>1.0.11</td></tr>
 </table>
 
