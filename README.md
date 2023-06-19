@@ -2,12 +2,12 @@
 
 ## 最新Jar包
 ```
-<dependency>
+	<dependency>
 		<groupId>com.kuangkie</groupId>
 		<artifactId>hydrocarbon</artifactId>
 		<version>1.12.1</version>
 	</dependency>
-<dependency>
+	<dependency>
 		<groupId>com.kuangkie</groupId>
 		<artifactId>hydrocarbon-client</artifactId>
 		<version>1.12.0</version>
