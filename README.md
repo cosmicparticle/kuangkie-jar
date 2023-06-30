@@ -23,10 +23,11 @@
 ## 历史Jar包
 <table>
 <tr>
-<th>hydrocarbon</th><th>hydrocarbon-client</th>
+<th>hydrocarbon</th><th>hydrocarbon-client</th><th>hydrocarbon-client-h5</th>
 </tr>
-<tr><td>1.12.1</td><td>1.12.0</td></tr>
-<tr><td>1.11.1</td><td>1.0.11</td></tr>
+<tr><td>1.15.0</td><td>1.15.0</td><td>1.15.0</td></tr>
+<tr><td>1.12.1</td><td>1.12.0</td<td>-</td>></tr>
+<tr><td>1.11.1</td><td>1.0.11</td<td>-</td>></tr>
 </table>
 
 ## 问题反馈 
