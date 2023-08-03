@@ -5,17 +5,17 @@
 	<dependency>
 		<groupId>com.kuangkie</groupId>
 		<artifactId>hydrocarbon</artifactId>
-		<version>1.15.0</version>
+		<version>1.19.0</version>
 	</dependency>
 	<dependency>
 		<groupId>com.kuangkie</groupId>
 		<artifactId>hydrocarbon-client</artifactId>
-		<version>1.15.0</version>
+		<version>1.19.0</version>
 	</dependency>
 	<dependency>
 		<groupId>com.kuangkie</groupId>
 		<artifactId>hydrocarbon-client-h5</artifactId>
-		<version>1.15.0</version>
+		<version>1.19.0</version>
 	</dependency>
 	
 
@@ -25,6 +25,7 @@
 <tr>
 <th>hydrocarbon</th><th>hydrocarbon-client</th><th>hydrocarbon-client-h5</th>
 </tr>
+<tr><td>1.19.0</td><td>1.19.0</td><td>1.19.0</td></tr>
 <tr><td>1.15.0</td><td>1.15.0</td><td>1.15.0</td></tr>
 <tr><td>1.12.1</td><td>1.12.0</td><td>-</td>></tr>
 <tr><td>1.11.1</td><td>1.0.11</td><td>-</td>></tr>
