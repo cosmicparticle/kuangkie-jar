@@ -4,32 +4,11 @@
 ```
 	<dependency>
 		<groupId>com.kuangkie</groupId>
-		<artifactId>hydrocarbon</artifactId>
-		<version>1.19.0</version>
+		<artifactId>kuangkie</artifactId>
+		<version>1.20.0</version>
 	</dependency>
-	<dependency>
-		<groupId>com.kuangkie</groupId>
-		<artifactId>hydrocarbon-client</artifactId>
-		<version>1.19.0</version>
-	</dependency>
-	<dependency>
-		<groupId>com.kuangkie</groupId>
-		<artifactId>hydrocarbon-client-h5</artifactId>
-		<version>1.19.0</version>
-	</dependency>
-	
-
 ```
 ## 历史Jar包
-<table>
-<tr>
-<th>hydrocarbon</th><th>hydrocarbon-client</th><th>hydrocarbon-client-h5</th>
-</tr>
-<tr><td>1.19.0</td><td>1.19.0</td><td>1.19.0</td></tr>
-<tr><td>1.15.0</td><td>1.15.0</td><td>1.15.0</td></tr>
-<tr><td>1.12.1</td><td>1.12.0</td><td>-</td>></tr>
-<tr><td>1.11.1</td><td>1.0.11</td><td>-</td>></tr>
-</table>
 
 ## 问题反馈 
 如果在使用过程中发现任何问题、或者有改善建议，欢迎加入我们讨论群：  
